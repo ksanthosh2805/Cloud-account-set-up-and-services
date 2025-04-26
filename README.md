@@ -56,31 +56,38 @@ For most beginners, select Basic Support.
 
 •	Log in using your email and password to start using AWS services.
 
+<br>
+
 ## Create a user with administrative access
 
 After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
+
+<br>
 
 #### Secure your AWS account root user
 
 1.	Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password.
 2.	Turn on multi-factor authentication (MFA) for your root user.
 
+<br>
+
 ## Create user with administrative access
 
 1.	Enable IAM Identity Center.
 2.	In IAM Identity Center, grant administrative access to a user.
 
+<br>
+
 ## Sign in as the user with administrative access
 
 To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
 
-
-
-
+<br>
 
 ## Services Overview:
 •	Explore all the available services in AWS platform.
 
+<br>
 
 ## Output:
 
